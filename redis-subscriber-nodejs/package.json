@@ -1,0 +1,17 @@
+{
+  "name": "redis-subscriber-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/cmd/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.12",
+    "redis": "^4.6.13"
+  }
+}
